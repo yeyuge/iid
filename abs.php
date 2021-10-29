@@ -1,3 +1,4 @@
 <?php
 
-    abs(-4445);
+   $abs = abs(-4445);
+   echo $abs;
